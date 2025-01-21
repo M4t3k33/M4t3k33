@@ -19,9 +19,9 @@ Jestem pasjonatem **gier komputerowych**, **programowania** oraz **tworzenia gra
 
 ## Moje projekty na GitHubie 💻
 
-- **[BlockForge Studio](#)** – Studio moderów Minecrafta, w którym współpracuję z przyjaciółmi nad różnymi projektami.
+- **[BlockForge Studio](https://github.com/BlockForge-Studio)** – Studio moderów Minecrafta, w którym współpracuję z przyjaciółmi nad różnymi projektami.
 - **[Symulacja ewolucji](#)** – Gra oparta na selekcji naturalnej, pokazująca zmiany organizmów w czasie.
-- **[Bot do gier](#)** – Bot do gier z systemem komend, historii czatu i funkcjami automatyzacji.
+- **[Bot do symulatorów](#)** – Bot na kanał symulatory z systemem komend, historii czatu i funkcjami automatyzacji.
 
 ## Moje zainteresowania 🌱
 
