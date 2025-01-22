@@ -8,7 +8,6 @@ Jestem pasjonatem **gier komputerowych**, **programowania** oraz **tworzenia gra
 - **Symulatory**: Jako opiekun kanału "Symulatory" na Discordzie (24k członków), organizuję dyskusje i współpracuję z innymi pasjonatami gier.
 - **Boty Discord** Tworzę boty do Serwerów Discord.
 - **Boty do Gier**: Pracuję nad botami, które pomagają w grach, automatyzują procesy i zapewniają interaktywność (historia czatu, system antyspamowy, komendy).
-- **Ewolucja i Biologia**: Rozwijam symulację **ewolucji** opartej na selekcji naturalnej, gdzie organizmy zmieniają rozmiar, kolor i prędkość w zależności od warunków.
 - **Algorytmy w Pythonie**: Testuję algorytmy AI do wykrywania gameplayów, rozwijając swoje umiejętności w tej dziedzinie.
 
 ## Umiejętności 🚀
