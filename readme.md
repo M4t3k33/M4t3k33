@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm passionate about computer games, programming, 
 - [Email](mailto:mateuszfirmowe@wp.pl)
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Twitter](https://twitter.com/your-profile)
-- [Personal Website](http://yourwebsite.com)
+- [Personal Website](http://mateuszdymowski.netlify.app)
 
 ## 🚀 Projects
 Here are some of the projects I've been working on:
