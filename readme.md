@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm passionate about computer games, programming, 
 [![GitHub metrics](https://metrics.lecoq.io/M4t3k33)](https://github.com/lowlighter/metrics)
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=M4t3k33&theme=radical&no-frame=true)
 
-## 💼 Connect with Me
+## 💼 Contact with Me
 - [Discord: m4t3k33](https://discord.com)
 - [Email](mailto:mateuszfirmowe@wp.pl)
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
