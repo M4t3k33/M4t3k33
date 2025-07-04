@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm passionate about computer games, programming, 
 ## 💼 Contact with Me
 - [Discord: m4t3k33](https://discord.com)
 - [Email](mailto:mateuszfirmowe@wp.pl)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com)
 - [Twitter](https://twitter.com/your-profile)
 - [Personal Website](http://mateuszdymowski.netlify.app)
 
