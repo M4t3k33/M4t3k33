@@ -2,8 +2,7 @@
 
 Welcome to my GitHub profile! I’m a passionate developer focused on game development, programming, and 2D/3D graphics. My biggest love is **Minecraft** – I build mods, plugins, and datapacks with a strong focus on optimization and unique features.
 
-![Profile Views](https://komarev.com/ghpvc/?username=M4t3k33&color=blue) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S31KUEZ9)
-
+![Profile Views](https://komarev.com/ghpvc/?username=M4t3k33&color=blue) 
 ---
 
 ## 🚀 About Me
@@ -160,5 +159,6 @@ Bots designed to automate tasks, manage chats, and improve Discord communities.
 
 ---
 
-Thanks for stopping by 💙  
+Thanks for stopping by 💙  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S31KUEZ9)
+
 Let’s build something cool together!
