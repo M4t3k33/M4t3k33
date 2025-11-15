@@ -1,72 +1,99 @@
-# 👋 Hey, I'm Mateusz  
+# 🚀 **M_Develop — Mateusz Dymowski**
 
-Tech freak, hardware tinkerer & creative dev.  
-I build, fix, optimize — from servers to plugins. Always learning, always tweaking.  
+Full-stack dev, hardware freak i gość od rzeczy, które „mają po prostu działać”.
+Buduję systemy, aplikacje, pluginy i boty. Naprawiam, optymalizuję, automatyzuję.
+Technologia to nie praca — to lifestyle.
 
-![Profile Views](https://komarev.com/ghpvc/?username=M4t3k33&color=blue)
-
----
-
-## ⚙️ What I Do  
-
-- 🧠 **Server Engineering** — physical servers, setup, maintenance & optimization  
-- 🔧 **IT & Hardware Service** — repair and diagnostics of PCs, laptops, phones, cameras, and audio gear  
-- ⚙️ **Automation & Scripting** — tools for maintenance, moderation, and system monitoring  
-- 🎮 **Minecraft Development** — mods, plugins, datapacks with a focus on performance  
-- 💻 **Software & System Design** — utility tools, diagnostics, and control panels for hardware projects  
+![Profile Views](https://komarev.com/ghpvc/?username=M4t3k33\&color=blue)
 
 ---
 
-## 🛠️ Tech Stack  
+## ⚙️ **Czym jest M_Develop?**
 
-**Languages:** Python • Java • C++ • JS/TS • C# • Go • Lua  
-**Areas:** Hardware integration • AI automation • Game modding • System optimization  
-**Tools:** VS Code • IntelliJ • Arch Linux • Docker • Git • Blender • KiCad  
-
----
-
-## 🧩 Projects  
-
-### 🧱 **BlockForge Studio**  
-Minecraft modding & automation lab focused on clean code, efficiency, and creativity.  
-
-### ⚡ **ServerWorks**  
-Custom-built and optimized servers for small studios, dev teams, and creators.  
+M_Develop to mój tech-brand: studio, w którym powstają aplikacje, pluginy, boty i narzędzia dla ludzi, którzy chcą szybko, czysto i wydajnie.
+Od aplikacji webowych po fizyczne serwery — ogarniam wszystko.
 
 ---
 
-## 🏆 Achievements  
+## 🛠️ **Co robię w M_Develop**
 
-- 💻 Built and optimized full server stacks from scratch  
-- 🧠 Developed scripts and AI tools for diagnostics and automation  
-- 🔧 Repaired & modified hardware for better thermal and performance results  
-- 🎮 Created plugins and datapacks used by multiple servers  
+* 💻 **Aplikacje Web / Mobile / Desktop**
+  Next.js, React, React Native, Electron — buduję responsywne i lekkie aplikacje.
 
----
+* 🎮 **Minecraft Development**
+  Pluginy, datapacki, automatyzacja, narzędzia dla administracji — performance first.
 
-## 💻 Setup  
+* 🤖 **Boty Discord**
+  Moderacja, automatyzacja, dashboardy, custom komendy — pełne systemy.
 
-| OS | Editor | Shell |
-|----|---------|--------|
-| 🪟 Windows 11 | VS Code / IntelliJ | PowerShell |
-| 🐧 Arch Linux | Neovim / JetBrains | Zsh |
+* 🔧 **IT & Hardware Service**
+  PC/laptopy/telefony/kamery/audio — diagnoza, naprawa, optymalizacja, undervolting i tuning.
 
----
+* ⚙️ **Serwery & Infrastruktura**
+  Fizyczne maszyny, konfiguracja, Linux, kontenery, monitoring. Stawiam stacki od zera.
 
-## 📫 Contact  
-
-- 💬 Discord: **v33ltr1x**  
-- 📧 [mateuszfirmowe@wp.pl](mailto:mateuszfirmowe@wp.pl)  
-- 🌐 [mateuszdymowski.netlify.app](http://mateuszdymowski.netlify.app)  
-- ☕ [Ko-fi](https://ko-fi.com/S6S31KUEZ9)
+* 🧠 **Automation & Scripting**
+  Python, Bash, PowerShell — narzędzia do serwera, workflowów i administracji.
 
 ---
 
-## 💬 Quote of the Day  
+## 🧩 **Główne Projekty M_Develop**
 
-> “If it breaks — fix it. If it works — make it faster.”
+### 🧱 **BlockForge Studio**
+
+Minecraft lab pod marką M_Develop — pluginy, narzędzia, automatyzacje.
+Skupienie na czystym kodzie, wydajności i stabilności.
+
+### ⚡ **ServerWorks by M_Develop**
+
+Kompleksowe serwery dla małych firm, twórców, studiów i dev-teamów.
+Od zakupu sprzętu po konfigurację i stałe wsparcie.
+
+### 🤖 **M_Develop Bots**
+
+Boty Discord pisane pod konkretne społeczności, serwery, firmy i projekty.
+Dashboard? Komendy? Integracje? Robię wszystko.
 
 ---
 
-Thanks for stopping by 💙  
-Let’s build, break & improve together.
+## 🧠 **Tech Stack M_Develop**
+
+**Languages:** Python • Java • C++ • JS/TS • C# • Go • Lua
+**Specialties:** Web dev • Game dev • Automation • Hardware integration • MC modding
+**Tools:** VS Code • IntelliJ • Arch Linux • Docker • Git • Blender • KiCad • Next.js • React
+
+---
+
+## 🏆 **Osiągnięcia pod M_Develop**
+
+* 🔥 Zbudowane i zoptymalizowane kompletnie fizyczne środowiska serwerowe
+* ⚙️ Dziesiątki narzędzi automatyzujących serwis, diagnostykę i administrowanie
+* 🎮 Pluginy/datapacki używane na różnych serwerach Minecraft
+* 🤖 Boty Discord działające stabilnie 24/7
+* 🔧 Serwis i tuning sprzętu: PC, laptopy, audio, kamery, aparaty
+* 🛠️ Własne systemy diagnostyczne i panele sterowania dla projektów hardware
+
+---
+
+## 🖥️ **Mój Setup**
+
+| System        | Edytory            | Shell      |
+| ------------- | ------------------ | ---------- |
+| 🪟 Windows 11 | VS Code • IntelliJ | PowerShell |
+| 🐧 Arch Linux | Neovim • JetBrains | Zsh        |
+
+---
+
+## 📫 **Kontakt**
+
+* 💬 Discord: **v33ltr1x**
+* 📧 Mail: **[mateuszfirmowe@wp.pl](mailto:mateuszfirmowe@wp.pl)**
+* 🌐 Strona: **mateuszdymowski.netlify.app**
+* ☕ Ko-fi: [https://ko-fi.com/S6S31KUEZ9](https://ko-fi.com/S6S31KUEZ9)
+
+---
+
+## 💬 **M_Develop Motto**
+
+> „If it breaks — fix it.
+> If it works — make it faster.”
