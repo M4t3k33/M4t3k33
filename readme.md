@@ -88,7 +88,6 @@ Dashboard? Komendy? Integracje? Robię wszystko.
 
 * 💬 Discord: **v33ltr1x**
 * 📧 Mail: **[mateuszfirmowe@wp.pl](mailto:mateuszfirmowe@wp.pl)**
-* 🌐 Strona: **mateuszdymowski.netlify.app**
 * ☕ Ko-fi: [https://ko-fi.com/S6S31KUEZ9](https://ko-fi.com/S6S31KUEZ9)
 
 ---
